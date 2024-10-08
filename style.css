@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #3d4a57;
+  color: white;
+}
+
+#pengalaman {
+  background-color: #3d4a57;
+  color: white;
+  margin-top: 100px;
+}
+
+.card-text {
+  color: black;
+}
+
+.card-title {
+  color: black;
+}
+
+section {
+  padding-top: 6rem;
+}
